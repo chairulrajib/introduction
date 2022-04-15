@@ -8,3 +8,9 @@ sekarang setelah membuat branch, lalu melakukan merging dengan main branch
 kita membuat commit baru
 
 ini adalah si B yang memberi tambahan tulisan dan menghapus satu baris lain
+=======
+ini adalah branch baru untuk si A
+dan A melakukan commit
+
+commit ke dua untuk si A
+
