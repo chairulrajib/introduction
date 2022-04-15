@@ -5,3 +5,6 @@ cara membuat branch ada 2
 2. memilih switch branch --> find or create new branch
 
 nah sekarang melakukan tambahan commit
+
+sekarang setelah membuat branch, lalu melakukan merging dengan main branch
+kita membuat commit baru
