@@ -8,3 +8,8 @@ nah sekarang melakukan tambahan commit
 
 sekarang setelah membuat branch, lalu melakukan merging dengan main branch
 kita membuat commit baru
+
+ini adalah branch baru untuk si A
+dan A melakukan commit
+
+commit ke dua untuk si A
