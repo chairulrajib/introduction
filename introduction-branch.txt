@@ -4,7 +4,7 @@ cara membuat branch ada 2
 1. ketika melakukan commit dapat memilih "create a new branch for this commit.."
 2. memilih switch branch --> find or create new branch
 
-nah sekarang melakukan tambahan commit
-
 sekarang setelah membuat branch, lalu melakukan merging dengan main branch
 kita membuat commit baru
+
+ini adalah si B yang memberi tambahan tulisan dan menghapus satu baris lain
