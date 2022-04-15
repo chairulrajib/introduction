@@ -2,3 +2,5 @@ File ini ditujukan untuk belajar menggunakan github
 sekarang sudah memiliki akun
 dan akan mencoba fitur lainnya
 per tanggal 15 april 2022
+nah ini adalah penambahannya
+dengan menambahkan beberapa baris tulisan
